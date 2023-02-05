@@ -68,6 +68,7 @@ body {
     width: 100%;
     height: 300px;
     object-fit: cover;
+    border-radius: 10px;
 }
 .products-info {
     padding: 10px;
