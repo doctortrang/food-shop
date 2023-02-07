@@ -88,3 +88,13 @@ body {
     font-family: 'Courier New', Courier, monospace;
     color: rgb(59, 59, 59);
 }
+.button {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: rgb(46, 46, 46);
+    text-decoration: none;
+}
+.button:hover {
+    color: black;
+    font-size: 22px;
+}
